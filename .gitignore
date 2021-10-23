@@ -1,0 +1,4 @@
+fpga/electronic-geartrain.runs/
+fpga/electronic-geartrain.cache/*
+fpga/electronic-geartrain.sim/*
+*.sw?

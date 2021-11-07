@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name geartrain)(type Legacy)(uri ${KIPRJMOD}/geartrain.lib)(options "")(descr ""))
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP K7805-3AR3
+D Wide input voltage non-isolated and regulated single
+K Switching regulator
+F https://www.mornsun-power.com/html/pdf/K7803-3AR3.html
+$ENDCMP
+#
+#End Doc Library

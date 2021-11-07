@@ -10,21 +10,23 @@ with out any CNC capabilites. Signals from linear scales are used for some modes
 3. Gear Hobbing attachment - syncronize the spindexer spindle RPM proportional to the main spindle RPM.
 
 ## parts
-1. [Seeed Spartan Edge Accelerator](https://wiki.seeedstudio.com/Spartan-Edge-Accelerator-Board/#encrypted-internet-of-things)
-1. Spindexer
-2. a few encoders (models tbd)
+1. Xilinx Spartan 7 FPGA
+2. ESP32-d0wd SOC
+3. [TFT LCD MODULE](https://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft57-ae.pdf)
+4. [Hall effect Sensor](https://www.littelfuse.com/~/media/electronics/datasheets/hall_effect_sensors/littelfuse_hall_effect_sensors_55100_datasheet.pdf.pdf)
+5. Spindexer
+6. a few encoders (models tbd)
     * TTL linear glass scales already installed on the mill.
-    * A hall effect sensor and magnet creating a diy 1 p/r encoder on the main spindle.
     * A rotational quadrature encoder on the spindexer's spindle.
-4. a stepper motor (model whatever my makerspace has)
-5. a [GeckoDrive stepper controller](https://www.geckodrive.com/products). (model tbd)
-6. Power supply (tbd)
-7. SD card
-8. Other electronic parts not selected yet
+7. a stepper motor (model whatever my makerspace has)
+8. a [GeckoDrive stepper controller](https://www.geckodrive.com/products). (model tbd)
+9. Power supply
+10. Other electronic parts not selected yet
 
 ## Tools Used
 1. Xilinx Vivado
 2. Arduino IDE (programming the sp32 included on the board).
+3. KiCAD
 
 ## TBD
 1. Do we need a brake?

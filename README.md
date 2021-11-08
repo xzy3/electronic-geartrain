@@ -4,6 +4,8 @@ A CNC 4th axis project. Inspired by a [youtube video](https://www.youtube.com/wa
 This project will have more complex electronics so it can also be used other ways. The project is intended to be used on a manual mill  
 with out any CNC capabilites. Signals from linear scales are used for some modes.
 
+oxtools explaining helical milling and doing a similar project [here](https://www.youtube.com/watch?v=AVydTvwqmRs)
+
 ## modes
 1. Dividing head - move to a rotational position and hold.
 2. Helical milling attachment - maintain rotational position proportional to the position of a linear axis.
